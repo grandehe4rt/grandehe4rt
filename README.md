@@ -1,6 +1,4 @@
 # Bem vindo ao meu perfil github 🥰 
-## **Welcome to my Github profile**
-
 ## Social Medias
 ### **[LinkedIn](https://www.linkedin.com/in/gabriel-mazieri-471664171/)**
 
@@ -14,11 +12,11 @@ Me chamo Gabriel Dias Mazieri, nasci em Nova Odessa, tenho 21 anos e sou o melho
 
 ## Informações específicas
 
-* **Name:** Gabriel Dias Mazieri 
-* **Age:** 21
-* **Living in:** Nova Odessa
-* **Stack:** HTML, CSS, Git, PHP.
-* **University:** Fatec Americana
+* **Nome:** Gabriel Dias Mazieri 
+* **Idade:** 21
+* **Reside em:** Nova Odessa
+* **Stack:** HTML, CSS, SCSS, Git, PHP.
+* **Universidade:** Fatec Americana
 
-## Carreira
+## 💻 Carreira
 * Trabalhei como estagiário durante 7 meses na prefeitura de Nova Odessa, SP como técnico de informática.
