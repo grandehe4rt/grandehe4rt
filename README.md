@@ -9,7 +9,7 @@ Me chamo Gabriel Dias Mazieri, nasci em Nova Odessa, tenho 21 anos e sou o melho
 * **Nome:** Gabriel Dias Mazieri 
 * **Idade:** 21
 * **Reside em:** Nova Odessa
-* **Stack:** HTML, CSS, SCSS, Git, PHP.
+* **Stack:** HTML, CSS, SCSS, Git, PHP, C e Python.
 * **Universidade:** Fatec Americana
 
 ## 💻 Carreira
