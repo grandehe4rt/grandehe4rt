@@ -5,7 +5,7 @@
 [![Twitch](https://img.shields.io/badge/grandehe4rt-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/grandehe4rt)
 
 <h2 align="center">
-  My name is <strong>Gabriel Mazieri</strong> i'm 21y and currently studying frontend development with ReactJs, feel free to look around my profile and if you want, message me in above social medias.
+  My name is <strong>Gabriel Mazieri</strong> i'm 22y and currently studying frontend development with ReactJs, feel free to look around my profile and if you want, message me in above social medias.
 </p>
 
 <br>
