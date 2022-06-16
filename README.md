@@ -1,11 +1,11 @@
-<h2>Welcome to my GitHub :)</h2>
+<h3>Welcome to my GitHub :)</h3>
 
 <p>
   My name is Gabriel i'm 22 years old and i'm currently focusing frontend development with JavaScript in general, feel free to look around my profile and if you want, message me in above social medias.
 </p>
 
 <div align="center">
-  <h2> <u> Get in touch with me </u></h2>
+  <h3>Get in touch with me</h3>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=grandehe4rt">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<h2>More about me</h2>
+<h3>More about me</h3>
 
 <p>
   <ul>
@@ -36,8 +36,7 @@
   </ul>
 </p>
 
-<h2 align="center"><u> Nice Knowledge in </u>
-</h2>
+<h3 align="center">Nice Knowledge in</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="30"/>
