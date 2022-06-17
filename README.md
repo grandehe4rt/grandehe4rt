@@ -43,6 +43,5 @@
   <img src="https://img.shields.io/badge/react%20-FFFFFF.svg?&style=for-the-badge&logo=react&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/node.js%20-FFFFFF.svg?&style=for-the-badge&logo=node.js&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/typescript%20-FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/fastapi%20-FFFFFF.svg?&style=for-the-badge&logo=fastapi&logoColor=black" height="30"/>
 </div>
 
