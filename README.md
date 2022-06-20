@@ -1,7 +1,8 @@
 <h3>Welcome to my GitHub :)</h3>
 
 <p>
-  My name is Gabriel i'm 22 years old and i'm currently focusing frontend development with JavaScript in general, feel free to look around my profile and if you want, message me in above social medias.
+  My name is Gabriel i'm 22 years old and i'm currently focusing frontend development with JavaScript.
+  Feel free to look around my profile and/or message me in right below social medias.
 </p>
 
 <div align="center">
