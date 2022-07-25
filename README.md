@@ -1,7 +1,7 @@
 <h3>💜 Welcome to my GitHub profile 💜</h3>
 
 <p>
-  My name is Gabriel i'm 22 years old and i'm currently focusing frontend development with JavaScript. <br>
+  My name is Gabriel i'm 22 years old and i'm currently studying .NET development but mostly ASP.NET <br>
   Feel free to look around my profile and/or message me in right below social medias.
 </p>
 
